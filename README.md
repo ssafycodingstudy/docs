@@ -1,6 +1,7 @@
 # 📌 발표 주제
 1. 해시 / 스택, 큐 – 혜민, 유진
     - [**해시**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%92%E1%85%A2%E1%84%89%E1%85%B5%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5.md>)
+    - [**스택 / 큐 / 덱**](<https://github.com/ssafycodingstudy/docs/blob/main/Stack-Queue-Deque/Stack%20Queue%20Deque.md>)
 
 2. 힙 / LinkedList – 효균, 지엽
 3. Tree / 정렬 – 민관, 지영
