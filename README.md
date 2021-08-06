@@ -4,6 +4,8 @@
     - [**스택 / 큐 / 덱**](<https://github.com/ssafycodingstudy/docs/blob/main/Stack-Queue-Deque/Stack%20Queue%20Deque.md>)
 
 2. 힙 / LinkedList – 효균, 지엽
+    - [**힙**](<https://github.com/ssafycodingstudy/docs/blob/main/Heap.md>)
+    - [**LinkedList**](<https://github.com/ssafycodingstudy/docs/blob/main/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md>)    
 3. Tree / 정렬 – 민관, 지영
 4. 완전탐색(브루트포스) – 혜민, 유진
 5. 탐욕법(그리디) / 분할정복– 효균, 지엽
