@@ -1,5 +1,6 @@
 # 1. 트리 Tree
 
+#
 ### 1) 트리
 
 비선형 자료구조 — 계층적 구조
@@ -22,9 +23,10 @@
 
 특정 key를 기준으로 사전순으로 정렬된 데이터를 가져올 때 사용
 
-삽입, 삭제, 탐색 O(logN)
-
-### 2) 구조
+삽입, 삭제, 탐색 O(logN)  
+  
+#
+### 2) 구조  
 
 1. 데이터와 연결상태를 저장할 클래스 공간 ( = 노드) 생성
 2. 각각의 노드들에 값 저장
@@ -38,7 +40,7 @@ public class Node{
 	Node right;
 }
 ```
-
+#
 ### 3) 용어
 
 루트(root) : 트리 구조 중 최상위에 존재하는 노드
@@ -61,6 +63,8 @@ public class Node{
 
 서브트리: 부모노드와 연결된 간선을 끊었을때 생성되는 트리
 
+
+#
 ### 4) 순회
 
 - 전위(pre-order)
@@ -143,7 +147,7 @@ public class Node{
     		queue.offer(cur * 2 + 1);
     }
     ```
-
+#
 ### 5) 이진탐색트리 TreeSet, TreeMap
 
 탐색시 균형이 깨지면(한쪽으로 치중) O(N)의 속도를 가질 수 있기 때문에 레드-블랙트리 사용
@@ -211,11 +215,15 @@ while(it.hasNext()) {
 
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ac6e978-bd5e-455b-a7de-5c8f94e8ae46/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ac6e978-bd5e-455b-a7de-5c8f94e8ae46/Untitled.png)
+![image](https://user-images.githubusercontent.com/55391944/129137917-dd425b21-6409-4092-9014-123bcabadb71.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f855551-fa43-44ca-b05a-77b11d99a1c6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f855551-fa43-44ca-b05a-77b11d99a1c6/Untitled.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bd7bb73-0a44-4ae8-8494-f8f8978acd76/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bd7bb73-0a44-4ae8-8494-f8f8978acd76/Untitled.png)
+![image](https://user-images.githubusercontent.com/55391944/129137948-5f287196-c6e2-4559-84cd-2b57b37698ab.png)
+
+![image](https://user-images.githubusercontent.com/55391944/129137974-ab6588ea-ab22-4b24-a3b8-593acf9a0486.png)
+
+![image](https://user-images.githubusercontent.com/55391944/129137998-5ec52f2b-3206-4a89-a73f-934296221398.png)
+
 
 - TreeMap
 
@@ -267,7 +275,7 @@ for(Map.Entry<String, Integer> entry : reangeMap.entrySet()) {
 }
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2649f35c-2647-48bc-80fd-b3c20a501863/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2649f35c-2647-48bc-80fd-b3c20a501863/Untitled.png)
+![image](https://user-images.githubusercontent.com/55391944/129138024-c4352720-b1a4-42fb-a9b8-fe2c4a879eef.png)
 
 > 출처
 [https://sabarada.tistory.com/145](https://sabarada.tistory.com/145)
