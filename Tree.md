@@ -247,7 +247,7 @@ NavigableSet<Integer> keyset = treeMap.descendingKeySet();
 Iterator<Integer> it = keyset.iterator();
 while (it.hasNext()) {
 	Integer key = it.next();
-	String value = scores.get(key);
+	String value = treeMap.get(key);
 	System.out.println("학생 : " + value + "\t" + key + "점");
 }
 System.out.println();
