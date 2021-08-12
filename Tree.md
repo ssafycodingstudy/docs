@@ -150,7 +150,7 @@ public class Node{
 
 - 레드-블랙 트리
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bc805ec-2e4b-45df-8daf-f8225fb92372/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bc805ec-2e4b-45df-8daf-f8225fb92372/Untitled.png)
+![image](https://user-images.githubusercontent.com/55391944/129137565-2fedc381-6139-4e15-a171-f1e3f9948273.png)
 
 1. 노드는 레드 혹은 블랙 중의 하나이다.
 2. 루트 노드는 블랙이다.
