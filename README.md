@@ -12,7 +12,13 @@
     - [**정렬**](<https://github.com/ssafycodingstudy/docs/blob/main/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md>)
 
 4. 완전탐색(브루트포스) – 혜민, 유진
+    - [**완전탐색(브루트포스,비트마스크)**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8(%E1%84%87%E1%85%B3%E1%84%85%E1%85%AE%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%2C%E1%84%87%E1%85%B5%E1%84%90%E1%85%B3%E1%84%86%E1%85%A1%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3).md>)
+    - [**완전탐색(재귀함수 & 순조부)**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A1%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8(%E1%84%8C%E1%85%A2%E1%84%80%E1%85%B1%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%20%26%20%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A9%E1%84%87%E1%85%AE).md>)
+
 5. 탐욕법(그리디) / 분할정복– 효균, 지엽
+    - [**Greedy**](<https://github.com/ssafycodingstudy/docs/blob/main/Greedy.md>)
+    - [**분할정복**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95.md>)
+
 6. 백트래킹 – 민관, 지영
 7. 그래프 (다익스트라, 벨만포드 등) – 혜민, 유진
 8. DFS/BFS – 효균, 지엽
