@@ -20,6 +20,9 @@
     - [**분할정복**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95.md>)
 
 6. 백트래킹 – 민관, 지영
+    - [**백트래킹 1**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.md>)
+    - [**백트래킹 2**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B92.md>)
+
 7. 그래프 (다익스트라, 벨만포드 등) – 혜민, 유진
 8. DFS/BFS – 효균, 지엽
 9. 문자열 처리 – 민관, 지영
