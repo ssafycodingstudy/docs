@@ -24,6 +24,9 @@
     - [**백트래킹 2**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B92.md>)
 
 7. 그래프 (다익스트라, 벨만포드 등) – 혜민, 유진
+    - [**다익스트라, 플로이드와샬**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%2C%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80%EC%83%AC/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%2C%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80%EC%83%AC.md>)
+    - [**벨만포드**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%87%E1%85%A6%E1%86%AF%E1%84%86%E1%85%A1%E1%86%AB%E1%84%91%E1%85%A9%E1%84%83%E1%85%B3%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7.md>)
+
 8. DFS/BFS – 효균, 지엽
 9. 문자열 처리 – 민관, 지영
 10. 동적계획법(DP) – 혜민, 유진
