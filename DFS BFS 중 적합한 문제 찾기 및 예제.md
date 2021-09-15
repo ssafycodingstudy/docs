@@ -25,7 +25,7 @@ DFS - https://www.acmicpc.net/problem/1520
 
 시간비교
 
-안전 지역 - https://www.acmicpc.net/status?user_id=iamjy&problem_id=2468&from_mine=1
+안전 지역 - https://www.acmicpc.net/problem/2468
 
 섬의 개수 - https://www.acmicpc.net/problem/4963
 
