@@ -28,6 +28,8 @@
     - [**벨만포드**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%87%E1%85%A6%E1%86%AF%E1%84%86%E1%85%A1%E1%86%AB%E1%84%91%E1%85%A9%E1%84%83%E1%85%B3%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7.md>)
 
 8. DFS/BFS – 효균, 지엽
+    - [**DFS/BFS**](<https://github.com/ssafycodingstudy/docs/blob/main/DFS%2CBFS.md>)
+    - [**DFS BFS 중 적합한 문제 찾기 및 예제**](<https://github.com/ssafycodingstudy/docs/blob/main/DFS%20BFS%20%EC%A4%91%20%EC%A0%81%ED%95%A9%ED%95%9C%20%EB%AC%B8%EC%A0%9C%20%EC%B0%BE%EA%B8%B0%20%EB%B0%8F%20%EC%98%88%EC%A0%9C.md>)
 9. 문자열 처리 – 민관, 지영
 10. 동적계획법(DP) – 혜민, 유진
 11. 이분탐색– 효균, 지엽
