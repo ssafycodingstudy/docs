@@ -31,6 +31,9 @@
     - [**DFS/BFS**](<https://github.com/ssafycodingstudy/docs/blob/main/DFS%2CBFS.md>)
     - [**DFS BFS 중 적합한 문제 찾기 및 예제**](<https://github.com/ssafycodingstudy/docs/blob/main/DFS%20BFS%20%EC%A4%91%20%EC%A0%81%ED%95%A9%ED%95%9C%20%EB%AC%B8%EC%A0%9C%20%EC%B0%BE%EA%B8%B0%20%EB%B0%8F%20%EC%98%88%EC%A0%9C.md>)
 9. 문자열 처리 – 민관, 지영
+    - [**문자열 조작**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%A1%B0%EC%9E%91.md>)
+    - [**문자열 관련 알고리즘**](<https://github.com/ssafycodingstudy/docs/blob/main/%EB%AC%B8%EC%9E%90%EC%97%B42.md>)
+
 10. 동적계획법(DP) – 혜민, 유진
 11. 이분탐색– 효균, 지엽
 12. 투포인터 – 민관, 지영
