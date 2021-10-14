@@ -39,7 +39,13 @@
     - [**DP 활용**](<https://github.com/ssafycodingstudy/docs/blob/main/DP%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC.md>)
   
 11. 이분탐색– 효균, 지엽
+    - [**이진 탐색**](<https://github.com/ssafycodingstudy/docs/blob/main/Binary%20Search.md>)
+    - [**이진 탐색 트리**](<https://github.com/ssafycodingstudy/docs/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.md>)
+
 12. 투포인터 – 민관, 지영
+    - [**투포인터**](<https://github.com/ssafycodingstudy/docs/blob/main/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0.md>)
+    - [**슬라이딩 윈도우 알고리즘**](<https://github.com/ssafycodingstudy/docs/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md>)
+
 13. 위상정렬– 혜민, 유진
 14. trie 알고리즘
 15. 유니온 파인드, 크루스칼 알고리즘
