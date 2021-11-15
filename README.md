@@ -46,10 +46,18 @@
     - [**투포인터**](<https://github.com/ssafycodingstudy/docs/blob/main/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0.md>)
     - [**슬라이딩 윈도우 알고리즘**](<https://github.com/ssafycodingstudy/docs/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md>)
 
-13. 위상정렬– 혜민, 유진
+13. 위상정렬 – 유진
     - [**위상정렬**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%8B%E1%85%B1%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%A7%E1%86%AF.md>)
-14. trie 알고리즘- 효균, 지엽
+
+14. trie 알고리즘- 효균
+ - [**Trie 알고리즘**](<https://github.com/ssafycodingstudy/docs/blob/main/Trie.md>)
+
 15. 유니온 파인드, 크루스칼 알고리즘- 민관, 지영
-16. 트리의 지름 구하기- 혜민, 유진
+ - [**유니온 파인드**](<https://github.com/ssafycodingstudy/docs/blob/main/%EC%9C%A0%EB%8B%88%EC%98%A8%ED%8C%8C%EC%9D%B8%EB%93%9C.md>)
+ - [**크루스칼 알고리즘**](<https://github.com/ssafycodingstudy/docs/blob/main/%ED%81%AC%EB%A3%A8%EC%8A%A4%EC%B9%BC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md>)
+
+16. 트리의 지름 구하기- 혜민
+ - [**트리의 지름 구하기**](<https://github.com/ssafycodingstudy/docs/blob/main/%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%B5%E1%84%85%E1%85%B3%E1%86%B7.md>)
+
 
 
